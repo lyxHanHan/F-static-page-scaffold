@@ -1,3 +1,7 @@
+body {
+  background-color: #e9ebee;
+}
+
 header {
   background-color: #3b5998;
   color: white;
@@ -38,4 +42,33 @@ ul {
 
 .item {
   display: flex;
+  margin-left: 120px;
+  margin-top: 40px;
+  align-items: center;
+}
+
+.item-right {
+  background-color: white;
+}
+
+h3 {
+  margin-left: 160px;
+}
+
+.item-image {
+  margin-left: 120px;
+}
+
+.item-caption {
+  text-align: center;
+}
+
+.begin1 {
+  margin-left: 235px;
+  margin-top: 50px;
+}
+
+.begin2 {
+  margin-left: 250px;
+  margin-top: 50px;
 }
