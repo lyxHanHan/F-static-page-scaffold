@@ -31,3 +31,11 @@ ul {
 .button {
   background-color: #42b72a;
 }
+
+.brief {
+  margin-left: 120px;
+}
+
+.item {
+  display: flex;
+}
