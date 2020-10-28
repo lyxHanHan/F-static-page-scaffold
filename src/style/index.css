@@ -1,20 +1,31 @@
-body,
-html {
-  margin: 0;
-  padding: 0;
+header {
+  background-color: #3b5998;
+  color: white;
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
 }
 
-body {
-  font-family: "Open Sans", sans-serif;
-  font-size: 16px;
+.header1 {
+  display: flex;
+  align-items: center;
+  margin-left: 100px;
 }
 
-* {
-  box-sizing: border-box;
+.header2 {
+  display: flex;
 }
 
 ul {
   list-style: none;
   margin: 0;
   padding: 0;
+}
+
+.nav-item {
+  margin-left: 20px;
+}
+
+.button {
+  background-color: #42b72a;
 }
