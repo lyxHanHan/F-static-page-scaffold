@@ -6,14 +6,16 @@ header {
   align-items: center;
 }
 
-.header1 {
+.header-left {
   display: flex;
   align-items: center;
   margin-left: 100px;
 }
 
-.header2 {
+.header-right {
   display: flex;
+  margin-right: 100px;
+  font-size: small;
 }
 
 ul {
